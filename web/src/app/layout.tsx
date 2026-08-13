@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import { FlaskConical, Network, Microscope, Activity, Beaker, Github, Linkedin, Globe } from "lucide-react";
+import { FlaskConical, Network, Microscope, Activity, Beaker, Code, User, Globe } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/components/ui/PremiumCard";
 import { StatusLamp } from "@/components/ui/StatusLamp";
@@ -84,10 +84,10 @@ export default function RootLayout({
             <div className="w-px h-3 bg-white/10" />
             <div className="flex items-center space-x-3">
               <a href="https://github.com/balajiprincejoshva-byte" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
-                <Github className="w-3.5 h-3.5" />
+                <Code className="w-3.5 h-3.5" />
               </a>
               <a href="https://in.linkedin.com/in/balaji-muthukumar-6445a5383" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
-                <Linkedin className="w-3.5 h-3.5" />
+                <User className="w-3.5 h-3.5" />
               </a>
               <a href="https://my-portfolio-one-plum-69.vercel.app" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
                 <Globe className="w-3.5 h-3.5" />
