@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import { FlaskConical, Network, Microscope, Activity, Beaker } from "lucide-react";
+import { FlaskConical, Network, Microscope, Activity, Beaker, Github, Linkedin, Globe } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/components/ui/PremiumCard";
 import { StatusLamp } from "@/components/ui/StatusLamp";
@@ -73,14 +73,30 @@ export default function RootLayout({
           {children}
         </main>
         
-        <footer className="h-8 border-t border-white/5 bg-[#0b0f19] flex items-center justify-between px-6 text-[10px] tracking-widest uppercase text-white/40 z-50">
+        <footer className="h-10 border-t border-white/5 bg-[#0b0f19] flex items-center justify-between px-6 text-[10px] tracking-widest uppercase text-white/40 z-50">
           <div className="flex space-x-8">
             <span>DATA: BioGRID</span>
             <span>MODEL: Random Forest V3</span>
-            <span>EVALUATION: C1/C2/C3</span>
           </div>
+          
+          <div className="flex items-center space-x-4 bg-sci-cyan/5 px-4 py-1.5 rounded-full border border-sci-cyan/10">
+            <span className="text-white/60">Engineered by <strong className="text-sci-cyan">Balaji Muthukumar</strong></span>
+            <div className="w-px h-3 bg-white/10" />
+            <div className="flex items-center space-x-3">
+              <a href="https://github.com/balajiprincejoshva-byte" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
+                <Github className="w-3.5 h-3.5" />
+              </a>
+              <a href="https://in.linkedin.com/in/balaji-muthukumar-6445a5383" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
+                <Linkedin className="w-3.5 h-3.5" />
+              </a>
+              <a href="https://my-portfolio-one-plum-69.vercel.app" target="_blank" rel="noopener noreferrer" className="hover:text-sci-cyan transition-colors">
+                <Globe className="w-3.5 h-3.5" />
+              </a>
+            </div>
+          </div>
+
           <div className="flex space-x-8">
-            <span className="text-sci-amber/70">STATUS: RESEARCH / HYPOTHESIS GENERATION</span>
+            <span className="text-sci-amber/70">STATUS: RESEARCH / HYPOTHESIS</span>
           </div>
         </footer>
       </body>
