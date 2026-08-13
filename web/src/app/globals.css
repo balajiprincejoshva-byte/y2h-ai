@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme {
+  --color-graphite: #0b0f19;
+  --color-titanium: #1e293b;
+  --color-sci-cyan: #06b6d4;
+  --color-sci-amber: #f59e0b;
+  --color-sci-red: #ef4444;
+  --color-sci-green: #10b981;
+}
+
+@layer base {
+  :root {
+    --surface: #0b0f19;
+    --surface-raised: #1e293b;
+    --surface-inset: #0f1524;
+    --shadow-soft: 4px 4px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px rgba(255, 255, 255, 0.05);
+    --shadow-deep: inset 4px 4px 8px rgba(0,0,0,0.5), inset -4px -4px 8px rgba(255,255,255,0.05);
+    --highlight: rgba(255, 255, 255, 0.08);
+    --border-subtle: 1px solid rgba(255, 255, 255, 0.05);
+    
+    --text-primary: #e2e8f0;
+    --text-muted: #94a3b8;
+  }
+  
+  body {
+    background-color: var(--surface);
+    color: var(--text-primary);
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .neumorphic-panel {
+    background-color: var(--surface-raised);
+    box-shadow: var(--shadow-soft);
+    border-radius: 12px;
+    border: var(--border-subtle);
+  }
+
+  .neumorphic-inset {
+    background-color: var(--surface-inset);
+    box-shadow: var(--shadow-deep);
+    border-radius: 8px;
+    border: var(--border-subtle);
+  }
+
+  .neumorphic-button {
+    background-color: var(--surface-raised);
+    box-shadow: var(--shadow-soft);
+    border-radius: 8px;
+    border: var(--border-subtle);
+    transition: all 150ms ease;
+    cursor: pointer;
+  }
+  
+  .neumorphic-button:active {
+    box-shadow: var(--shadow-deep);
+    background-color: var(--surface-inset);
+  }
+  
+  .tabular-nums {
+    font-feature-settings: "tnum";
+    font-variant-numeric: tabular-nums;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  
+  .glass-panel {
+    background: rgba(30, 41, 59, 0.6);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+}

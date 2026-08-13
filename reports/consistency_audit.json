@@ -1,0 +1,32 @@
+{
+  "inconsistencies": [
+    {
+      "metric": "C1 AUROC",
+      "source_a": "reports/evaluation_report.json (0.7722)",
+      "source_b": "reports/evaluation_report.md (0.7722)",
+      "status": "consistent",
+      "note": "Values match, but are not loaded from a singular authoritative reproducible evaluation artifact (e.g. evaluation_results.json)."
+    },
+    {
+      "metric": "Model Claim: Deep Learning / Siamese Network",
+      "source_a": "reports/model_card.md (claims PyTorch Neural Networks on ESM-2 Embeddings)",
+      "source_b": "src/y2h_ppi/models/trainer.py (only trains RF and LR)",
+      "status": "inconsistent",
+      "note": "Model card advertises neural networks, but they are stubbed and not trained or evaluated in the main pipeline."
+    },
+    {
+      "metric": "Confidence Intervals",
+      "source_a": "README.md (displays 95% CIs)",
+      "source_b": "src/y2h_ppi/inference/predictor.py (uses hardcoded heuristic +/- 0.08)",
+      "status": "inconsistent",
+      "note": "README displays valid bootstrapped CIs from evaluation, but API predictor invents a fake CI."
+    },
+    {
+      "metric": "Evaluation Data Source Truth",
+      "source_a": "Phase 5 script (evaluates RF and DegreeHub)",
+      "source_b": "Phase 4 script (trains RF and LR)",
+      "status": "inconsistent",
+      "note": "Logistic Regression is trained but never evaluated. The evaluation script operates on a separate train/test split generation than the trainer script."
+    }
+  ]
+}

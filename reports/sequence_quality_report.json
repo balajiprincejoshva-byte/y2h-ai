@@ -1,0 +1,10 @@
+{
+  "total_records": 6722,
+  "valid_records": 6722,
+  "invalid_records_count": 0,
+  "duplicate_ids": [],
+  "duplicate_sequences_count": 149,
+  "ambiguous_mappings": [],
+  "missing_sequences": [],
+  "invalid_characters_examples": []
+}

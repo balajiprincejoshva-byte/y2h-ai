@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: y2h-ai-api
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn src.y2h_ppi.api.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0

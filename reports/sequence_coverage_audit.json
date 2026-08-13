@@ -1,0 +1,14 @@
+{
+  "organism": "Saccharomyces cerevisiae",
+  "total_reference_proteins": 6722,
+  "proteins_with_sequences": 3687,
+  "biogrid_proteins": 3688,
+  "mapped_proteins": 3687,
+  "feature_complete_proteins": 3687,
+  "model_supported_proteins": 3687,
+  "coverage_fraction": 0.5484974709907765,
+  "unresolved_proteins_count": 1,
+  "unresolved_sample": [
+    "YIR044C"
+  ]
+}

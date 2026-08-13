@@ -1,0 +1,15 @@
+{
+  "run_id": "7cb0001c-4aea-4402-9594-515795048993",
+  "timestamp": "2026-08-11T19:07:53.455906+00:00",
+  "git_commit": "N/A",
+  "python_version": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "dependency_lock_hash": "5e314bdfad5b68661707de26d85aa7173ee8d00ad0d51c47692dbc53b345e5df",
+  "dataset_hash": "d8b650e576ae2c7585b5de7dbaf55d1d43124d9d13727bc86f155d369bd66316",
+  "feature_hash": "7ad9738d0e4c4bf879808f875c847030436e0d311ed2655bcacd5fa32ba0dc0b",
+  "split_seed": 42,
+  "model_seed": 42,
+  "negative_sampling_seed": 42,
+  "model_version": "v2.0-RF/LR",
+  "feature_version": "v2.0-Classical+ESM",
+  "evaluation_version": "v2.0-Park-Marcotte"
+}

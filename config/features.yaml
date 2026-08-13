@@ -1,0 +1,15 @@
+classical:
+  aac: true
+  dpc: true
+  ctd: true
+  conjoint_triad: true
+
+esm:
+  model_name: "facebook/esm2_t6_8M_UR50D"
+  device: "cpu"
+  batch_size: 16
+
+pair_representation:
+  method: "symmetric_concat"  # [vec_A + vec_B, |vec_A - vec_B|]
+
+cache_dir: "data/interim/features_cache"

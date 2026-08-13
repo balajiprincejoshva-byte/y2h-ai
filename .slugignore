@@ -1,0 +1,9 @@
+data/raw
+data/interim/features_cache
+web
+reports/archive
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache

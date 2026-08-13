@@ -1,0 +1,644 @@
+2026-08-11 23:26:46,411 | INFO | y2h_ppi | cli.py:8 | Running Phase 0 Checkpoint: Environment & Repository Setup
+2026-08-11 23:26:46,412 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\config
+2026-08-11 23:26:46,414 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\raw
+2026-08-11 23:26:46,415 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\interim
+2026-08-11 23:26:46,416 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\processed
+2026-08-11 23:26:46,417 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\data
+2026-08-11 23:26:46,417 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\features
+2026-08-11 23:26:46,418 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\splitting
+2026-08-11 23:26:46,419 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\models
+2026-08-11 23:26:46,420 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\evaluation
+2026-08-11 23:26:46,420 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\explain
+2026-08-11 23:26:46,421 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\inference
+2026-08-11 23:26:46,422 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\network
+2026-08-11 23:26:46,423 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\api
+2026-08-11 23:26:46,424 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\frontend
+2026-08-11 23:26:46,424 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\tests
+2026-08-11 23:26:46,425 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\reports
+2026-08-11 23:26:46,426 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\scripts
+2026-08-11 23:26:46,427 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\logs
+2026-08-11 23:29:19,170 | INFO | y2h_ppi | cli.py:8 | Running Phase 0 Checkpoint: Environment & Repository Setup
+2026-08-11 23:29:19,171 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\config
+2026-08-11 23:29:19,172 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\raw
+2026-08-11 23:29:19,173 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\interim
+2026-08-11 23:29:19,174 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\processed
+2026-08-11 23:29:19,175 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\data
+2026-08-11 23:29:19,175 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\features
+2026-08-11 23:29:19,176 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\splitting
+2026-08-11 23:29:19,177 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\models
+2026-08-11 23:29:19,178 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\evaluation
+2026-08-11 23:29:19,179 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\explain
+2026-08-11 23:29:19,180 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\inference
+2026-08-11 23:29:19,180 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\network
+2026-08-11 23:29:19,181 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\api
+2026-08-11 23:29:19,182 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\frontend
+2026-08-11 23:29:19,183 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\tests
+2026-08-11 23:29:19,184 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\reports
+2026-08-11 23:29:19,185 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\scripts
+2026-08-11 23:29:19,186 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\logs
+2026-08-11 23:29:26,065 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:34:32,502 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:34:36,619 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-11 23:34:37,599 | INFO | y2h_ppi | biogrid.py:25 | Resolved latest BioGRID version: 5.0.260
+2026-08-11 23:34:37,603 | INFO | y2h_ppi | biogrid.py:41 | Downloading BioGRID yeast dataset from https://downloads.thebiogrid.org/File/BioGRID/Release-Archive/BIOGRID-5.0.260/BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-5.0.260.tab3.zip...
+2026-08-11 23:34:38,709 | INFO | y2h_ppi | biogrid.py:47 | Primary URL failed (404). Trying alternate URL: https://downloads.thebiogrid.org/File/BioGRID/Latest-Release/BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-5.0.260.tab3.zip
+2026-08-11 23:34:39,762 | ERROR | y2h_ppi | biogrid.py:56 | Failed to download BioGRID file from https://downloads.thebiogrid.org/File/BioGRID/Release-Archive/BIOGRID-5.0.260/BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-5.0.260.tab3.zip: 404 Client Error: Not Found for url: https://downloads.thebiogrid.org/Error
+2026-08-11 23:37:08,964 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:37:10,296 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-11 23:37:11,035 | INFO | y2h_ppi | biogrid.py:25 | Resolved latest BioGRID version: 5.0.260
+2026-08-11 23:37:11,037 | INFO | y2h_ppi | biogrid.py:41 | Downloading BioGRID yeast dataset from https://downloads.thebiogrid.org/File/BioGRID/Release-Archive/BIOGRID-5.0.260/BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-5.0.260.tab3.zip...
+2026-08-11 23:37:12,135 | INFO | y2h_ppi | biogrid.py:46 | Primary URL status 404. Trying alternate latest endpoint: https://downloads.thebiogrid.org/File/BioGRID/Latest-Release/BIOGRID-ORGANISM-LATEST.tab3.zip
+2026-08-11 23:37:12,910 | INFO | y2h_ppi | biogrid.py:54 | BioGRID download complete: data\raw\BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-5.0.260.tab3.zip (size: 12360 bytes)
+2026-08-11 23:52:50,552 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:52:51,419 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-11 23:52:51,420 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-11 23:52:51,421 | INFO | y2h_ppi | biogrid.py:72 | Extracting yeast interaction dataset 'BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.240.tab3.txt' from zip archive...
+2026-08-11 23:53:02,721 | INFO | y2h_ppi | biogrid.py:77 | Loaded raw BioGRID rows for yeast: 858477
+2026-08-11 23:53:02,742 | INFO | y2h_ppi | biogrid.py:90 | Detected Y2H experimental systems in BioGRID dataset: ['Two-hybrid']
+2026-08-11 23:53:03,271 | INFO | y2h_ppi | biogrid.py:99 | Rows after physical Y2H yeast filter: 17575
+2026-08-11 23:53:06,559 | INFO | y2h_ppi | biogrid.py:116 | Final BioGRID Y2H canonical positive pairs: 12684 across 3688 unique proteins.
+2026-08-11 23:53:06,773 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'BioGRID Yeast Y2H Positives': 12684 records recorded.
+2026-08-11 23:53:06,776 | INFO | y2h_ppi | uniprot.py:22 | Downloading yeast proteome sequences from UniProt / SGD...
+2026-08-11 23:53:16,661 | INFO | y2h_ppi | uniprot.py:29 | Downloaded UniProt proteome FASTA to data\raw\yeast_reference_proteome.fasta
+2026-08-11 23:53:16,851 | INFO | y2h_ppi | uniprot.py:87 | Parsed 6067 FASTA records mapping to 13736 protein ID keys.
+2026-08-11 23:53:16,883 | INFO | y2h_ppi | uniprot.py:99 | Protein sequence mapping coverage: 215 / 3688 (5.83%)
+2026-08-11 23:53:16,925 | INFO | y2h_ppi | uniprot.py:107 | BioGRID positive pairs after sequence mapping filter: 9 pairs.
+2026-08-11 23:53:16,933 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'UniProt/SGD Yeast Proteome Sequences': 215 records recorded.
+2026-08-11 23:53:16,935 | INFO | y2h_ppi | negatome.py:23 | Downloading Negatome 2.0 dataset...
+2026-08-11 23:53:25,793 | WARNING | y2h_ppi | negatome.py:32 | MIPS Negatome server unreachable (HTTPSConnectionPool(host='mips.helmholtz-muenchen.de', port=443): Max retries exceeded with url: /proj/ppi/negatome/combined_stringent.txt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))). Attempting mirror URL...
+2026-08-11 23:53:26,578 | ERROR | y2h_ppi | negatome.py:41 | Failed to fetch Negatome dataset: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/datasets/negatome/main/combined_stringent.txt
+2026-08-11 23:53:26,588 | INFO | y2h_ppi | negatome.py:62 | Loaded raw Negatome dataset rows: 1
+2026-08-11 23:53:26,590 | INFO | y2h_ppi | negatome.py:77 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-11 23:53:26,593 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-11 23:53:26,593 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-11 23:53:45,746 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:53:46,666 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-11 23:53:46,667 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-11 23:53:46,669 | INFO | y2h_ppi | biogrid.py:72 | Extracting yeast interaction dataset 'BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.240.tab3.txt' from zip archive...
+2026-08-11 23:53:57,658 | INFO | y2h_ppi | biogrid.py:77 | Loaded raw BioGRID rows for yeast: 858477
+2026-08-11 23:53:57,680 | INFO | y2h_ppi | biogrid.py:90 | Detected Y2H experimental systems in BioGRID dataset: ['Two-hybrid']
+2026-08-11 23:53:58,217 | INFO | y2h_ppi | biogrid.py:99 | Rows after physical Y2H yeast filter: 17575
+2026-08-11 23:54:01,806 | INFO | y2h_ppi | biogrid.py:116 | Final BioGRID Y2H canonical positive pairs: 12684 across 3688 unique proteins.
+2026-08-11 23:54:01,835 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'BioGRID Yeast Y2H Positives': 12684 records recorded.
+2026-08-11 23:54:01,841 | INFO | y2h_ppi | uniprot.py:23 | Downloading SGD yeast ORF protein translations FASTA...
+2026-08-11 23:54:05,921 | INFO | y2h_ppi | uniprot.py:30 | Downloaded SGD reference proteome FASTA to data\raw\yeast_reference_proteome.fasta
+2026-08-11 23:54:06,555 | INFO | y2h_ppi | uniprot.py:81 | Parsed 6722 FASTA records mapping to 27567 protein ID keys.
+2026-08-11 23:54:06,602 | INFO | y2h_ppi | uniprot.py:93 | Protein sequence mapping coverage: 3687 / 3688 (99.97%)
+2026-08-11 23:54:06,768 | INFO | y2h_ppi | uniprot.py:101 | BioGRID positive pairs after sequence mapping filter: 12683 pairs.
+2026-08-11 23:54:06,795 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'SGD Yeast Proteome Sequences': 3687 records recorded.
+2026-08-11 23:54:06,797 | INFO | y2h_ppi | negatome.py:38 | Found cached Negatome file: data\raw\negatome_combined_stringent.txt
+2026-08-11 23:54:06,800 | INFO | y2h_ppi | negatome.py:53 | Loaded raw Negatome dataset rows: 1
+2026-08-11 23:54:06,802 | INFO | y2h_ppi | negatome.py:68 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-11 23:54:06,824 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-11 23:54:06,825 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-11 23:54:37,052 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-11 23:54:37,905 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-11 23:54:37,906 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-11 23:54:37,908 | INFO | y2h_ppi | biogrid.py:72 | Extracting yeast interaction dataset 'BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.240.tab3.txt' from zip archive...
+2026-08-11 23:54:53,256 | INFO | y2h_ppi | biogrid.py:77 | Loaded raw BioGRID rows for yeast: 858477
+2026-08-11 23:54:53,289 | INFO | y2h_ppi | biogrid.py:90 | Detected Y2H experimental systems in BioGRID dataset: ['Two-hybrid']
+2026-08-11 23:54:54,143 | INFO | y2h_ppi | biogrid.py:99 | Rows after physical Y2H yeast filter: 17575
+2026-08-11 23:54:57,790 | INFO | y2h_ppi | biogrid.py:116 | Final BioGRID Y2H canonical positive pairs: 12684 across 3688 unique proteins.
+2026-08-11 23:54:57,808 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'BioGRID Yeast Y2H Positives': 12684 records recorded.
+2026-08-11 23:54:57,811 | INFO | y2h_ppi | uniprot.py:23 | Downloading SGD yeast ORF protein translations FASTA...
+2026-08-11 23:55:12,279 | INFO | y2h_ppi | uniprot.py:30 | Downloaded SGD reference proteome FASTA to data\raw\yeast_reference_proteome.fasta
+2026-08-11 23:55:12,891 | INFO | y2h_ppi | uniprot.py:81 | Parsed 6722 FASTA records mapping to 27567 protein ID keys.
+2026-08-11 23:55:12,937 | INFO | y2h_ppi | uniprot.py:93 | Protein sequence mapping coverage: 3687 / 3688 (99.97%)
+2026-08-11 23:55:13,093 | INFO | y2h_ppi | uniprot.py:101 | BioGRID positive pairs after sequence mapping filter: 12683 pairs.
+2026-08-11 23:55:13,119 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'SGD Yeast Proteome Sequences': 3687 records recorded.
+2026-08-11 23:55:13,122 | INFO | y2h_ppi | negatome.py:26 | Downloading Negatome 2.0 dataset...
+2026-08-11 23:55:15,444 | INFO | y2h_ppi | negatome.py:33 | Downloaded Negatome dataset from https://mips.helmholtz-muenchen.de/proj/ppi/negatome/combined_stringent.txt (98356 bytes)
+2026-08-11 23:55:15,479 | INFO | y2h_ppi | negatome.py:55 | Loaded raw Negatome dataset rows: 6136
+2026-08-11 23:55:16,503 | INFO | y2h_ppi | negatome.py:70 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-11 23:55:16,507 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-11 23:55:16,507 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-11 23:55:27,531 | INFO | y2h_ppi | cli.py:31 | Executing Phase 2: Negative Sampling Strategy
+2026-08-11 23:55:28,142 | INFO | y2h_ppi | negatives.py:49 | === Phase 2 Execution Started: Negative Sampling Strategy ===
+2026-08-11 23:55:28,545 | INFO | y2h_ppi | negatives.py:67 | Targeting positive baseline set size: 12683 pairs.
+2026-08-11 23:55:36,732 | INFO | y2h_ppi | negatives.py:107 | Assertion PASSED: Programmatic check confirmed ZERO overlap between all negative sets and BioGRID positive set.
+2026-08-11 23:55:37,101 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negative Sampling Sets': 1407813 records recorded.
+2026-08-11 23:55:37,101 | INFO | y2h_ppi | negatives.py:133 | === Phase 2 Checkpoint PASSED ===
+2026-08-11 23:55:49,754 | INFO | y2h_ppi | cli.py:37 | Executing Phase 3: Feature Engineering
+2026-08-11 23:55:50,438 | INFO | y2h_ppi | pipeline.py:68 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-11 23:55:50,477 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-11 23:55:50,479 | INFO | y2h_ppi | pipeline.py:26 | Computing Tier 1 Classical Sequence Descriptors (AAC, DPC, CTD, Conjoint Triad)...
+2026-08-11 23:55:56,842 | INFO | y2h_ppi | cache.py:17 | Saved feature cache to data\interim\features_cache\classical_features.parquet (shape: (3687, 784))
+2026-08-11 23:55:56,844 | INFO | y2h_ppi | pipeline.py:35 | Computing Tier 2 ESM-2 Embeddings...
+2026-08-11 23:56:19,061 | INFO | y2h_ppi | esm_embeddings.py:22 | Loading ESM-2 model 'facebook/esm2_t6_8M_UR50D' on cpu...
+2026-08-11 23:56:38,517 | INFO | y2h_ppi | esm_embeddings.py:28 | ESM-2 model successfully loaded.
+2026-08-12 00:00:00,184 | INFO | y2h_ppi | cli.py:37 | Executing Phase 3: Feature Engineering
+2026-08-12 00:00:06,355 | INFO | y2h_ppi | pipeline.py:67 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-12 00:00:06,451 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-12 00:00:06,676 | INFO | y2h_ppi | pipeline.py:31 | Loaded cached Tier 1 Classical Descriptors for 3687 proteins.
+2026-08-12 00:00:06,677 | INFO | y2h_ppi | pipeline.py:34 | Computing Tier 2 ESM-2 Embeddings in parallel batches...
+2026-08-12 00:00:17,759 | INFO | y2h_ppi | esm_embeddings.py:22 | Loading ESM-2 model 'facebook/esm2_t6_8M_UR50D' on cpu...
+2026-08-12 00:00:30,916 | INFO | y2h_ppi | esm_embeddings.py:28 | ESM-2 model successfully loaded.
+2026-08-12 00:00:30,916 | INFO | y2h_ppi | esm_embeddings.py:40 | Batch embedding 3687 sequences with batch size 32...
+2026-08-12 00:03:26,296 | INFO | y2h_ppi | cli.py:37 | Executing Phase 3: Feature Engineering
+2026-08-12 00:03:30,688 | INFO | y2h_ppi | pipeline.py:67 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-12 00:03:30,744 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-12 00:03:30,886 | INFO | y2h_ppi | pipeline.py:31 | Loaded cached Tier 1 Classical Descriptors for 3687 proteins.
+2026-08-12 00:03:30,886 | INFO | y2h_ppi | pipeline.py:34 | Computing Tier 2 ESM-2 Embeddings in parallel batches...
+2026-08-12 00:03:38,874 | INFO | y2h_ppi | esm_embeddings.py:22 | Loading ESM-2 model 'facebook/esm2_t6_8M_UR50D' on cpu...
+2026-08-12 00:03:42,977 | INFO | y2h_ppi | esm_embeddings.py:28 | ESM-2 model successfully loaded.
+2026-08-12 00:03:42,977 | INFO | y2h_ppi | esm_embeddings.py:40 | Extracting ESM-2 embeddings for first 500 sequences...
+2026-08-12 00:04:18,323 | INFO | y2h_ppi | cache.py:17 | Saved feature cache to data\interim\features_cache\esm_features.parquet (shape: (3687, 320))
+2026-08-12 00:04:18,328 | INFO | y2h_ppi | pipeline.py:88 | Symmetry Assertion PASSED: F(A, B) == F(B, A) verified for pair features.
+2026-08-12 00:04:18,328 | INFO | y2h_ppi | pipeline.py:97 | === Phase 3 Checkpoint PASSED ===
+2026-08-12 00:04:32,470 | INFO | y2h_ppi | cli.py:43 | Executing Phase 4: Model Training
+2026-08-12 00:04:39,292 | INFO | y2h_ppi | trainer.py:18 | === Phase 4 Execution Started: Model Training ===
+2026-08-12 00:06:15,865 | INFO | y2h_ppi | cli.py:43 | Executing Phase 4: Model Training
+2026-08-12 00:06:17,971 | INFO | y2h_ppi | trainer.py:17 | === Phase 4 Execution Started: Model Training ===
+2026-08-12 00:06:18,082 | INFO | y2h_ppi | trainer.py:38 | Loaded 3687 protein feature vectors from cache.
+2026-08-12 00:06:20,191 | INFO | y2h_ppi | trainer.py:52 | Built training dataset matrix X: (25366, 1568), y: (25366,)
+2026-08-12 00:06:20,191 | INFO | y2h_ppi | baseline_ml.py:36 | Training Random Forest baseline...
+2026-08-12 00:06:23,434 | INFO | y2h_ppi | baseline_ml.py:85 | Saved model 'random_forest' to data\processed\saved_models\random_forest.joblib
+2026-08-12 00:06:23,435 | INFO | y2h_ppi | baseline_ml.py:29 | Training Logistic Regression baseline...
+2026-08-12 00:06:23,766 | INFO | y2h_ppi | baseline_ml.py:85 | Saved model 'logistic_regression' to data\processed\saved_models\logistic_regression.joblib
+2026-08-12 00:06:23,821 | INFO | y2h_ppi | trainer.py:81 | === Phase 4 Checkpoint PASSED ===
+2026-08-12 00:06:49,889 | INFO | y2h_ppi | cli.py:49 | Executing Phase 5: Rigorous Evaluation
+2026-08-12 00:06:51,972 | INFO | y2h_ppi | pipeline.py:20 | === Phase 5 Execution Started: Rigorous Evaluation ===
+2026-08-12 00:06:52,129 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:06:53,362 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=14402, C1 Test=1600, C2 Test=7964, C3 Test=1400.
+2026-08-12 00:06:53,395 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:06:58,046 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2702 unique nodes (max degree: 155).
+2026-08-12 00:07:09,346 | INFO | y2h_ppi | report_generator.py:22 | Saved evaluation report JSON to reports\evaluation_report.json
+2026-08-12 00:07:09,347 | INFO | y2h_ppi | report_generator.py:62 | Saved evaluation report Markdown to reports\evaluation_report.md
+2026-08-12 00:07:09,348 | INFO | y2h_ppi | pipeline.py:115 | === Phase 5 Checkpoint PASSED ===
+2026-08-12 00:07:31,495 | INFO | y2h_ppi | cli.py:55 | Executing Phase 6: Explainability
+2026-08-12 00:07:32,694 | INFO | y2h_ppi | pipeline.py:15 | === Phase 6 Execution Started: Explainability ===
+2026-08-12 00:08:06,557 | INFO | y2h_ppi | cli.py:55 | Executing Phase 6: Explainability
+2026-08-12 00:08:07,689 | INFO | y2h_ppi | pipeline.py:15 | === Phase 6 Execution Started: Explainability ===
+2026-08-12 00:08:34,818 | INFO | y2h_ppi | cli.py:55 | Executing Phase 6: Explainability
+2026-08-12 00:08:35,984 | INFO | y2h_ppi | pipeline.py:15 | === Phase 6 Execution Started: Explainability ===
+2026-08-12 00:09:05,619 | INFO | y2h_ppi | cli.py:55 | Executing Phase 6: Explainability
+2026-08-12 00:09:06,809 | INFO | y2h_ppi | pipeline.py:15 | === Phase 6 Execution Started: Explainability ===
+2026-08-12 00:09:09,458 | INFO | y2h_ppi | pipeline.py:49 | === Phase 6 Checkpoint PASSED ===
+2026-08-12 00:09:22,484 | INFO | y2h_ppi | cli.py:61 | Executing Phase 7: Inference Engine Verification
+2026-08-12 00:09:23,634 | INFO | y2h_ppi | predictor.py:120 | === Phase 7 Execution Started: Inference Engine Verification ===
+2026-08-12 00:09:24,586 | INFO | y2h_ppi | predictor.py:32 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:09:51,687 | INFO | y2h_ppi | cli.py:61 | Executing Phase 7: Inference Engine Verification
+2026-08-12 00:09:52,876 | INFO | y2h_ppi | predictor.py:115 | === Phase 7 Execution Started: Inference Engine Verification ===
+2026-08-12 00:09:53,887 | INFO | y2h_ppi | predictor.py:32 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:09:54,024 | INFO | y2h_ppi | predictor.py:128 | === Phase 7 Checkpoint PASSED ===
+2026-08-12 00:10:40,309 | INFO | y2h_ppi | predictor.py:32 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:10:40,474 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:10:40,479 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:10:40,480 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:10:58,247 | INFO | y2h_ppi | cli.py:73 | Executing Phase 9: Testing & Documentation
+2026-08-12 00:10:58,258 | INFO | y2h_ppi | report_generator.py:114 | Generated model_card.md and limitations.md.
+2026-08-12 00:29:43,503 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:29:44,439 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:29:44,443 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:29:44,444 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:29:44,448 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:29:44,453 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:29:44,453 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:29:44,453 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:29:44,458 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:29:44,459 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:30:26,222 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:30:26,731 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:30:26,735 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:30:26,735 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:30:26,739 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:30:26,743 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:30:26,743 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:30:26,744 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:30:26,748 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:30:26,749 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:31:28,425 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:31:28,584 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:31:28,588 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:31:28,589 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:31:28,592 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:31:28,596 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:31:28,597 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:31:28,597 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 00:31:28,601 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 00:31:28,602 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:31:48,358 | INFO | y2h_ppi | cli.py:107 | Executing End-to-End Reproducible Pipeline
+2026-08-12 00:31:48,358 | INFO | y2h_ppi | cli.py:8 | Running Phase 0 Checkpoint: Environment & Repository Setup
+2026-08-12 00:31:48,358 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\config
+2026-08-12 00:31:48,359 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\raw
+2026-08-12 00:31:48,359 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\interim
+2026-08-12 00:31:48,360 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\processed
+2026-08-12 00:31:48,360 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\data
+2026-08-12 00:31:48,360 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\features
+2026-08-12 00:31:48,361 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\splitting
+2026-08-12 00:31:48,361 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\models
+2026-08-12 00:31:48,361 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\evaluation
+2026-08-12 00:31:48,362 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\explain
+2026-08-12 00:31:48,362 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\inference
+2026-08-12 00:31:48,363 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\network
+2026-08-12 00:31:48,363 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\api
+2026-08-12 00:31:48,363 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\frontend
+2026-08-12 00:31:48,364 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\tests
+2026-08-12 00:31:48,364 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\reports
+2026-08-12 00:31:48,364 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\scripts
+2026-08-12 00:31:48,365 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\logs
+2026-08-12 00:31:48,365 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-12 00:31:49,267 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-12 00:31:49,267 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-12 00:31:49,269 | INFO | y2h_ppi | biogrid.py:72 | Extracting yeast interaction dataset 'BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.240.tab3.txt' from zip archive...
+2026-08-12 00:32:00,281 | INFO | y2h_ppi | biogrid.py:77 | Loaded raw BioGRID rows for yeast: 858477
+2026-08-12 00:32:00,301 | INFO | y2h_ppi | biogrid.py:90 | Detected Y2H experimental systems in BioGRID dataset: ['Two-hybrid']
+2026-08-12 00:32:00,835 | INFO | y2h_ppi | biogrid.py:99 | Rows after physical Y2H yeast filter: 17575
+2026-08-12 00:32:04,141 | INFO | y2h_ppi | biogrid.py:116 | Final BioGRID Y2H canonical positive pairs: 12684 across 3688 unique proteins.
+2026-08-12 00:32:53,201 | INFO | y2h_ppi | biogrid.py:133 | Final BioGRID All Physical pairs for exclusion: 172643.
+2026-08-12 00:32:53,260 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'BioGRID Yeast Y2H Positives': 12684 records recorded.
+2026-08-12 00:32:53,265 | INFO | y2h_ppi | uniprot.py:23 | Downloading SGD yeast ORF protein translations FASTA...
+2026-08-12 00:33:00,884 | INFO | y2h_ppi | uniprot.py:30 | Downloaded SGD reference proteome FASTA to data\raw\yeast_reference_proteome.fasta
+2026-08-12 00:33:01,283 | INFO | y2h_ppi | uniprot.py:81 | Parsed 6722 FASTA records mapping to 27567 protein ID keys.
+2026-08-12 00:33:01,314 | INFO | y2h_ppi | uniprot.py:93 | Protein sequence mapping coverage: 3687 / 3688 (99.97%)
+2026-08-12 00:33:01,426 | INFO | y2h_ppi | uniprot.py:101 | BioGRID positive pairs after sequence mapping filter: 12683 pairs.
+2026-08-12 00:33:01,445 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'SGD Yeast Proteome Sequences': 3687 records recorded.
+2026-08-12 00:33:01,448 | INFO | y2h_ppi | negatome.py:40 | Found cached Negatome file: data\raw\negatome_combined_stringent.txt
+2026-08-12 00:33:01,457 | INFO | y2h_ppi | negatome.py:55 | Loaded raw Negatome dataset rows: 6136
+2026-08-12 00:33:02,082 | INFO | y2h_ppi | negatome.py:70 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-12 00:33:02,085 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-12 00:33:02,085 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-12 00:33:02,086 | INFO | y2h_ppi | cli.py:31 | Executing Phase 2: Negative Sampling Strategy
+2026-08-12 00:33:02,087 | INFO | y2h_ppi | negatives.py:49 | === Phase 2 Execution Started: Negative Sampling Strategy ===
+2026-08-12 00:33:02,609 | INFO | y2h_ppi | negatives.py:70 | Targeting positive baseline set size: 12683 pairs.
+2026-08-12 00:33:08,912 | INFO | y2h_ppi | negatives.py:110 | Assertion PASSED: Programmatic check confirmed ZERO overlap between all negative sets and BioGRID positive set.
+2026-08-12 00:33:09,148 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negative Sampling Sets': 1407813 records recorded.
+2026-08-12 00:33:09,148 | INFO | y2h_ppi | negatives.py:136 | === Phase 2 Checkpoint PASSED ===
+2026-08-12 00:33:09,414 | INFO | y2h_ppi | cli.py:37 | Executing Phase 3: Feature Engineering
+2026-08-12 00:33:11,408 | INFO | y2h_ppi | pipeline.py:67 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-12 00:33:11,415 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-12 00:33:11,555 | INFO | y2h_ppi | pipeline.py:31 | Loaded cached Tier 1 Classical Descriptors for 3687 proteins.
+2026-08-12 00:33:11,556 | INFO | y2h_ppi | pipeline.py:41 | Loaded cached Tier 2 ESM Embeddings for 3687 proteins.
+2026-08-12 00:33:11,563 | INFO | y2h_ppi | pipeline.py:88 | Symmetry Assertion PASSED: F(A, B) == F(B, A) verified for pair features.
+2026-08-12 00:33:11,563 | INFO | y2h_ppi | pipeline.py:97 | === Phase 3 Checkpoint PASSED ===
+2026-08-12 00:33:11,566 | INFO | y2h_ppi | cli.py:43 | Executing Phase 4: Model Training
+2026-08-12 00:33:12,841 | INFO | y2h_ppi | trainer.py:18 | === Phase 4 Execution Started: Model Training ===
+2026-08-12 00:33:12,868 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:33:14,083 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=14411, C1 Test=1601, C2 Test=7963, C3 Test=1391.
+2026-08-12 00:33:14,119 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:33:14,206 | INFO | y2h_ppi | trainer.py:48 | Loaded 3687 protein feature vectors from cache.
+2026-08-12 00:33:15,456 | INFO | y2h_ppi | trainer.py:65 | Built training dataset matrix X: (14411, 1568), y: (14411,)
+2026-08-12 00:33:15,456 | INFO | y2h_ppi | baseline_ml.py:27 | Training Random Forest baseline...
+2026-08-12 00:33:17,663 | INFO | y2h_ppi | baseline_ml.py:42 | Calibrating random_forest using isotonic scaling on validation set...
+2026-08-12 00:36:24,367 | INFO | y2h_ppi | cli.py:107 | Executing End-to-End Reproducible Pipeline
+2026-08-12 00:36:24,368 | INFO | y2h_ppi | cli.py:8 | Running Phase 0 Checkpoint: Environment & Repository Setup
+2026-08-12 00:36:24,368 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\config
+2026-08-12 00:36:24,369 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\raw
+2026-08-12 00:36:24,369 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\interim
+2026-08-12 00:36:24,369 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\data\processed
+2026-08-12 00:36:24,370 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\data
+2026-08-12 00:36:24,370 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\features
+2026-08-12 00:36:24,371 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\splitting
+2026-08-12 00:36:24,371 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\models
+2026-08-12 00:36:24,371 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\evaluation
+2026-08-12 00:36:24,372 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\explain
+2026-08-12 00:36:24,372 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\inference
+2026-08-12 00:36:24,373 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\network
+2026-08-12 00:36:24,373 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\src\y2h_ppi\api
+2026-08-12 00:36:24,374 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\frontend
+2026-08-12 00:36:24,374 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\tests
+2026-08-12 00:36:24,375 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\reports
+2026-08-12 00:36:24,375 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\scripts
+2026-08-12 00:36:24,376 | INFO | y2h_ppi | cli.py:19 | Directory verified: C:\Users\Balaji\Desktop\Genetic engineering capstone project\logs
+2026-08-12 00:36:24,376 | INFO | y2h_ppi | cli.py:25 | Executing Phase 1: Real Data Acquisition
+2026-08-12 00:36:25,287 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-12 00:36:25,288 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-12 00:36:25,290 | INFO | y2h_ppi | biogrid.py:72 | Extracting yeast interaction dataset 'BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.240.tab3.txt' from zip archive...
+2026-08-12 00:36:36,402 | INFO | y2h_ppi | biogrid.py:77 | Loaded raw BioGRID rows for yeast: 858477
+2026-08-12 00:36:36,425 | INFO | y2h_ppi | biogrid.py:90 | Detected Y2H experimental systems in BioGRID dataset: ['Two-hybrid']
+2026-08-12 00:36:36,939 | INFO | y2h_ppi | biogrid.py:99 | Rows after physical Y2H yeast filter: 17575
+2026-08-12 00:36:40,197 | INFO | y2h_ppi | biogrid.py:116 | Final BioGRID Y2H canonical positive pairs: 12684 across 3688 unique proteins.
+2026-08-12 00:37:29,114 | INFO | y2h_ppi | biogrid.py:133 | Final BioGRID All Physical pairs for exclusion: 172643.
+2026-08-12 00:37:29,162 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'BioGRID Yeast Y2H Positives': 12684 records recorded.
+2026-08-12 00:37:29,168 | INFO | y2h_ppi | uniprot.py:23 | Downloading SGD yeast ORF protein translations FASTA...
+2026-08-12 00:37:35,933 | INFO | y2h_ppi | uniprot.py:30 | Downloaded SGD reference proteome FASTA to data\raw\yeast_reference_proteome.fasta
+2026-08-12 00:37:36,354 | INFO | y2h_ppi | uniprot.py:81 | Parsed 6722 FASTA records mapping to 27567 protein ID keys.
+2026-08-12 00:37:36,385 | INFO | y2h_ppi | uniprot.py:93 | Protein sequence mapping coverage: 3687 / 3688 (99.97%)
+2026-08-12 00:37:36,498 | INFO | y2h_ppi | uniprot.py:101 | BioGRID positive pairs after sequence mapping filter: 12683 pairs.
+2026-08-12 00:37:36,516 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'SGD Yeast Proteome Sequences': 3687 records recorded.
+2026-08-12 00:37:36,518 | INFO | y2h_ppi | negatome.py:40 | Found cached Negatome file: data\raw\negatome_combined_stringent.txt
+2026-08-12 00:37:36,527 | INFO | y2h_ppi | negatome.py:55 | Loaded raw Negatome dataset rows: 6136
+2026-08-12 00:37:37,152 | INFO | y2h_ppi | negatome.py:70 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-12 00:37:37,156 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-12 00:37:37,156 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-12 00:37:37,157 | INFO | y2h_ppi | cli.py:31 | Executing Phase 2: Negative Sampling Strategy
+2026-08-12 00:37:37,158 | INFO | y2h_ppi | negatives.py:49 | === Phase 2 Execution Started: Negative Sampling Strategy ===
+2026-08-12 00:37:37,652 | INFO | y2h_ppi | negatives.py:70 | Targeting positive baseline set size: 12683 pairs.
+2026-08-12 00:37:43,808 | INFO | y2h_ppi | negatives.py:110 | Assertion PASSED: Programmatic check confirmed ZERO overlap between all negative sets and BioGRID positive set.
+2026-08-12 00:37:44,044 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negative Sampling Sets': 1407813 records recorded.
+2026-08-12 00:37:44,044 | INFO | y2h_ppi | negatives.py:136 | === Phase 2 Checkpoint PASSED ===
+2026-08-12 00:37:44,306 | INFO | y2h_ppi | cli.py:37 | Executing Phase 3: Feature Engineering
+2026-08-12 00:37:46,246 | INFO | y2h_ppi | pipeline.py:67 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-12 00:37:46,252 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-12 00:37:46,423 | INFO | y2h_ppi | pipeline.py:31 | Loaded cached Tier 1 Classical Descriptors for 3687 proteins.
+2026-08-12 00:37:46,423 | INFO | y2h_ppi | pipeline.py:41 | Loaded cached Tier 2 ESM Embeddings for 3687 proteins.
+2026-08-12 00:37:46,431 | INFO | y2h_ppi | pipeline.py:88 | Symmetry Assertion PASSED: F(A, B) == F(B, A) verified for pair features.
+2026-08-12 00:37:46,431 | INFO | y2h_ppi | pipeline.py:97 | === Phase 3 Checkpoint PASSED ===
+2026-08-12 00:37:46,433 | INFO | y2h_ppi | cli.py:43 | Executing Phase 4: Model Training
+2026-08-12 00:37:47,673 | INFO | y2h_ppi | trainer.py:18 | === Phase 4 Execution Started: Model Training ===
+2026-08-12 00:37:47,696 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:37:48,890 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=14411, C1 Test=1601, C2 Test=7963, C3 Test=1391.
+2026-08-12 00:37:48,926 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:37:49,007 | INFO | y2h_ppi | trainer.py:48 | Loaded 3687 protein feature vectors from cache.
+2026-08-12 00:37:50,258 | INFO | y2h_ppi | trainer.py:65 | Built training dataset matrix X: (14411, 1568), y: (14411,)
+2026-08-12 00:37:50,258 | INFO | y2h_ppi | baseline_ml.py:28 | Training Random Forest baseline...
+2026-08-12 00:37:52,826 | INFO | y2h_ppi | baseline_ml.py:43 | Calibrating random_forest using isotonic scaling on validation set...
+2026-08-12 00:37:53,013 | INFO | y2h_ppi | baseline_ml.py:56 | Saved model 'random_forest' to data\processed\saved_models\random_forest.joblib
+2026-08-12 00:37:53,013 | INFO | y2h_ppi | baseline_ml.py:21 | Training Logistic Regression baseline...
+2026-08-12 00:37:53,215 | INFO | y2h_ppi | baseline_ml.py:43 | Calibrating logistic_regression using isotonic scaling on validation set...
+2026-08-12 00:37:53,239 | INFO | y2h_ppi | baseline_ml.py:56 | Saved model 'logistic_regression' to data\processed\saved_models\logistic_regression.joblib
+2026-08-12 00:37:53,314 | INFO | y2h_ppi | trainer.py:92 | === Phase 4 Checkpoint PASSED ===
+2026-08-12 00:37:53,322 | INFO | y2h_ppi | cli.py:49 | Executing Phase 5: Rigorous Evaluation
+2026-08-12 00:37:53,333 | INFO | y2h_ppi | pipeline.py:28 | === Phase 5 Execution Started: Rigorous Evaluation ===
+2026-08-12 00:37:53,522 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:37:54,742 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=14411, C1 Test=1601, C2 Test=7963, C3 Test=1391.
+2026-08-12 00:37:54,773 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:37:55,098 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2695 unique nodes (max degree: 152).
+2026-08-12 00:37:55,955 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to1_balanced: AUROC=0.7719
+2026-08-12 00:37:57,654 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to1_balanced: AUROC=0.7240
+2026-08-12 00:37:58,507 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to1_balanced: AUROC=0.6662
+2026-08-12 00:37:59,326 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to1_balanced: AUROC=0.7021
+2026-08-12 00:38:00,990 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to1_balanced: AUROC=0.6899
+2026-08-12 00:38:01,765 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to1_balanced: AUROC=0.6830
+2026-08-12 00:38:02,679 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to1_balanced: AUROC=0.8002
+2026-08-12 00:38:04,516 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to1_balanced: AUROC=0.5000
+2026-08-12 00:38:05,328 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to1_balanced: AUROC=0.5000
+2026-08-12 00:38:06,170 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to1_balanced: AUROC=0.5043
+2026-08-12 00:38:07,935 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to1_balanced: AUROC=0.5059
+2026-08-12 00:38:08,761 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to1_balanced: AUROC=0.5124
+2026-08-12 00:38:08,780 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:38:17,693 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=80482, C1 Test=8942, C2 Test=44520, C3 Test=5569.
+2026-08-12 00:38:17,976 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:38:18,477 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2704 unique nodes (max degree: 150).
+2026-08-12 00:38:21,295 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to10_imbalanced: AUROC=0.8977
+2026-08-12 00:38:31,365 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to10_imbalanced: AUROC=0.7251
+2026-08-12 00:38:33,360 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to10_imbalanced: AUROC=0.6713
+2026-08-12 00:38:35,151 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to10_imbalanced: AUROC=0.7174
+2026-08-12 00:38:43,938 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to10_imbalanced: AUROC=0.6889
+2026-08-12 00:38:46,024 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to10_imbalanced: AUROC=0.6753
+2026-08-12 00:38:49,429 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to10_imbalanced: AUROC=0.8114
+2026-08-12 00:38:59,097 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to10_imbalanced: AUROC=0.5000
+2026-08-12 00:39:01,109 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to10_imbalanced: AUROC=0.5000
+2026-08-12 00:39:04,100 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to10_imbalanced: AUROC=0.4960
+2026-08-12 00:39:15,351 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to10_imbalanced: AUROC=0.4984
+2026-08-12 00:39:17,551 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to10_imbalanced: AUROC=0.5106
+2026-08-12 00:39:17,634 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:40:42,947 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=738407, C1 Test=82045, C2 Test=409410, C3 Test=51121.
+2026-08-12 00:40:45,457 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:40:46,101 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2674 unique nodes (max degree: 153).
+2026-08-12 00:41:04,086 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to100_imbalanced: AUROC=0.9079
+2026-08-12 00:43:00,969 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to100_imbalanced: AUROC=0.7263
+2026-08-12 00:43:19,475 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to100_imbalanced: AUROC=0.6721
+2026-08-12 00:43:47,462 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to100_imbalanced: AUROC=0.7162
+2026-08-12 00:46:17,189 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to100_imbalanced: AUROC=0.6893
+2026-08-12 00:46:31,628 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to100_imbalanced: AUROC=0.6759
+2026-08-12 00:47:00,257 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to100_imbalanced: AUROC=0.7767
+2026-08-12 00:48:52,003 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to100_imbalanced: AUROC=0.5000
+2026-08-12 00:49:05,900 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to100_imbalanced: AUROC=0.5000
+2026-08-12 00:49:26,694 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to100_imbalanced: AUROC=0.5000
+2026-08-12 00:51:31,634 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to100_imbalanced: AUROC=0.4976
+2026-08-12 00:51:47,039 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to100_imbalanced: AUROC=0.5071
+2026-08-12 00:51:47,056 | INFO | y2h_ppi | pipeline.py:133 | === Phase 5 Checkpoint PASSED. Canonical results saved to reports\evaluation_results.json ===
+2026-08-12 00:51:47,153 | INFO | y2h_ppi | ablation_study.py:19 | === Phase 6 Execution Started: Feature Ablation Study ===
+2026-08-12 00:51:47,375 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 3687 proteins into P_train (2949) and P_heldout (738).
+2026-08-12 00:51:49,644 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=14411, C1 Test=1601, C2 Test=7963, C3 Test=1391.
+2026-08-12 00:51:49,712 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 00:51:49,715 | INFO | y2h_ppi | ablation_study.py:75 | Evaluating Classical-Only feature set...
+2026-08-12 00:51:54,772 | INFO | y2h_ppi | ablation_study.py:91 |   c1 AUROC: 0.7682
+2026-08-12 00:51:56,025 | INFO | y2h_ppi | ablation_study.py:91 |   c2 AUROC: 0.7180
+2026-08-12 00:51:56,289 | INFO | y2h_ppi | ablation_study.py:91 |   c3 AUROC: 0.6796
+2026-08-12 00:51:56,289 | INFO | y2h_ppi | ablation_study.py:75 | Evaluating ESM-2-Only feature set...
+2026-08-12 00:52:00,432 | INFO | y2h_ppi | ablation_study.py:91 |   c1 AUROC: 0.7565
+2026-08-12 00:52:01,449 | INFO | y2h_ppi | ablation_study.py:91 |   c2 AUROC: 0.6968
+2026-08-12 00:52:01,672 | INFO | y2h_ppi | ablation_study.py:91 |   c3 AUROC: 0.6474
+2026-08-12 00:52:01,672 | INFO | y2h_ppi | ablation_study.py:75 | Evaluating Classical+ESM-2 feature set...
+2026-08-12 00:52:08,312 | INFO | y2h_ppi | ablation_study.py:91 |   c1 AUROC: 0.7703
+2026-08-12 00:52:09,999 | INFO | y2h_ppi | ablation_study.py:91 |   c2 AUROC: 0.7205
+2026-08-12 00:52:10,357 | INFO | y2h_ppi | ablation_study.py:91 |   c3 AUROC: 0.6718
+2026-08-12 00:52:10,361 | INFO | y2h_ppi | ablation_study.py:97 | Saved ablation results to reports\ablation_results.json
+2026-08-12 00:52:10,378 | INFO | y2h_ppi | cli.py:55 | Executing Phase 6: Explainability
+2026-08-12 00:52:10,382 | INFO | y2h_ppi | pipeline.py:15 | === Phase 6 Execution Started: Explainability ===
+2026-08-12 00:52:13,228 | WARNING | y2h_ppi | shap_explain.py:15 | SHAP TreeExplainer failed or unavailable (Model type not yet supported by TreeExplainer: <class 'sklearn.calibration.CalibratedClassifierCV'>). Using tree feature importances.
+2026-08-12 00:52:13,272 | INFO | y2h_ppi | pipeline.py:49 | === Phase 6 Checkpoint PASSED ===
+2026-08-12 00:52:13,272 | INFO | y2h_ppi | cli.py:61 | Executing Phase 7: Inference Engine Verification
+2026-08-12 00:52:13,275 | INFO | y2h_ppi | predictor.py:125 | === Phase 7 Execution Started: Inference Engine Verification ===
+2026-08-12 00:52:13,318 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 00:52:13,527 | INFO | y2h_ppi | predictor.py:139 | === Phase 7 Checkpoint PASSED ===
+2026-08-12 00:52:13,532 | INFO | y2h_ppi | cli.py:73 | Executing Phase 9: Testing & Documentation
+2026-08-12 00:52:13,543 | INFO | y2h_ppi | report_generator.py:114 | Generated model_card.md and limitations.md.
+2026-08-12 01:19:45,524 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 01:19:50,469 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 01:23:19,259 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 01:45:15,915 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 01:45:16,063 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:45:16,067 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:45:16,068 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:45:16,071 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:45:16,076 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:45:16,076 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:45:16,077 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:45:16,081 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:45:16,081 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:56:03,393 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 01:56:03,534 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:56:03,539 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:56:03,540 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:56:03,544 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:56:03,548 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:56:03,549 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:56:03,549 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 01:56:03,553 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 01:56:03,554 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 01:58:48,393 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 02:21:18,942 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 02:35:41,122 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 02:52:01,655 | INFO | y2h_ppi | predictor.py:35 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 03:21:56,949 | INFO | y2h_ppi | predictor.py:47 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 03:37:58,066 | INFO | y2h_ppi | predictor.py:47 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 03:37:58,981 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:37:58,990 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:37:58,990 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 03:37:58,994 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:37:58,998 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:37:58,999 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 03:37:58,999 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:37:59,003 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:37:59,003 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 03:38:15,081 | INFO | y2h_ppi | predictor.py:47 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-12 03:38:15,172 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:38:15,176 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:38:15,176 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 03:38:15,180 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:38:15,184 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:38:15,185 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-12 03:38:15,185 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-12 03:38:15,189 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-12 03:38:15,190 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 19:14:21,000 | INFO | y2h_ppi | predictor.py:131 | === Phase 7 Execution Started: Inference Engine Verification ===
+2026-08-13 19:14:25,723 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-13 19:22:53,640 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-13 19:28:43,642 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-13 19:43:01,967 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest.joblib
+2026-08-13 20:14:37,293 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-13 20:14:37,295 | INFO | y2h_ppi | biogrid.py:48 | Downloading BioGRID organism dataset from https://downloads.thebiogrid.org/Download/BioGRID/Release-Archive/BIOGRID-4.4.240/BIOGRID-ORGANISM-4.4.240.tab3.zip...
+2026-08-13 20:18:08,134 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-13 20:18:08,135 | INFO | y2h_ppi | biogrid.py:44 | Found validated BioGRID archive: data\raw\test_biogrid_organism.zip
+2026-08-13 20:18:30,797 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-13 20:18:30,798 | INFO | y2h_ppi | biogrid.py:61 | Found cached BioGRID archive: data\raw\BIOGRID-ORGANISM-4.4.240.tab3.zip
+2026-08-13 20:18:50,146 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-13 20:18:50,147 | INFO | y2h_ppi | biogrid.py:48 | Downloading BioGRID organism dataset from https://downloads.thebiogrid.org/Download/BioGRID/Release-Archive/BIOGRID-4.4.240/BIOGRID-ORGANISM-4.4.240.tab3.zip...
+2026-08-13 20:20:57,933 | INFO | y2h_ppi | pipeline.py:10 | === Phase 1 Execution Started ===
+2026-08-13 20:20:57,963 | INFO | y2h_ppi | uniprot.py:23 | Found cached yeast reference FASTA: data\raw\yeast_reference_proteome.fasta
+2026-08-13 20:20:58,121 | INFO | y2h_ppi | uniprot.py:98 | Parsed 6722 FASTA records. Built registry of 6722 canonical proteins.
+2026-08-13 20:20:58,216 | INFO | y2h_ppi | uniprot.py:124 | BioGRID interaction sequence mapping coverage: 3687 / 3688 (99.97%)
+2026-08-13 20:20:58,284 | INFO | y2h_ppi | uniprot.py:131 | BioGRID positive pairs after sequence mapping filter: 12683 pairs.
+2026-08-13 20:20:58,292 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'SGD Yeast Proteome Sequences': 6722 records recorded.
+2026-08-13 20:20:58,292 | INFO | y2h_ppi | negatome.py:40 | Found cached Negatome file: data\raw\negatome_combined_stringent.txt
+2026-08-13 20:20:58,303 | INFO | y2h_ppi | negatome.py:55 | Loaded raw Negatome dataset rows: 6136
+2026-08-13 20:20:58,908 | INFO | y2h_ppi | negatome.py:70 | Found 0 yeast-mappable Negatome non-interacting pairs.
+2026-08-13 20:20:58,922 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negatome 2.0 Yeast Non-Interactions': 0 records recorded.
+2026-08-13 20:20:58,922 | INFO | y2h_ppi | pipeline.py:32 | === Phase 1 Checkpoint PASSED ===
+2026-08-13 20:22:12,499 | INFO | y2h_ppi | pipeline.py:67 | === Phase 3 Execution Started: Feature Engineering ===
+2026-08-13 20:22:12,542 | INFO | y2h_ppi | pipeline.py:16 | Computing protein feature matrices...
+2026-08-13 20:22:12,670 | INFO | y2h_ppi | pipeline.py:25 | Computing Tier 1 Classical Sequence Descriptors (AAC, DPC, CTD, Conjoint Triad)...
+2026-08-13 20:22:20,178 | INFO | y2h_ppi | cache.py:17 | Saved feature cache to data\interim\features_cache\classical_features.parquet (shape: (6722, 784))
+2026-08-13 20:22:20,183 | INFO | y2h_ppi | pipeline.py:34 | Computing Tier 2 ESM-2 Embeddings in parallel batches...
+2026-08-13 20:22:30,011 | INFO | y2h_ppi | esm_embeddings.py:22 | Loading ESM-2 model 'facebook/esm2_t6_8M_UR50D' on cpu...
+2026-08-13 20:22:32,780 | INFO | y2h_ppi | esm_embeddings.py:28 | ESM-2 model successfully loaded.
+2026-08-13 20:22:32,780 | INFO | y2h_ppi | esm_embeddings.py:40 | Extracting ESM-2 embeddings for 6722 sequences...
+2026-08-13 20:22:55,516 | INFO | y2h_ppi | negatives.py:49 | === Phase 2 Execution Started: Negative Sampling Strategy ===
+2026-08-13 20:22:57,118 | INFO | y2h_ppi | negatives.py:70 | Targeting positive baseline set size: 12683 pairs.
+2026-08-13 20:23:21,365 | INFO | y2h_ppi | negatives.py:110 | Assertion PASSED: Programmatic check confirmed ZERO overlap between all negative sets and BioGRID positive set.
+2026-08-13 20:23:22,576 | INFO | y2h_ppi | manifest.py:40 | Updated manifest entry for 'Negative Sampling Sets': 1407813 records recorded.
+2026-08-13 20:23:22,577 | INFO | y2h_ppi | negatives.py:136 | === Phase 2 Checkpoint PASSED ===
+2026-08-13 20:30:49,594 | INFO | y2h_ppi | cache.py:17 | Saved feature cache to data\interim\features_cache\esm_features.parquet (shape: (6722, 320))
+2026-08-13 20:30:49,623 | INFO | y2h_ppi | pipeline.py:88 | Symmetry Assertion PASSED: F(A, B) == F(B, A) verified for pair features.
+2026-08-13 20:30:49,623 | INFO | y2h_ppi | pipeline.py:97 | === Phase 3 Checkpoint PASSED ===
+2026-08-13 20:31:36,963 | INFO | y2h_ppi | trainer.py:18 | === Phase 4 Execution Started: Model Training ===
+2026-08-13 20:31:37,010 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 6722 proteins into P_train (5377) and P_heldout (1345).
+2026-08-13 20:31:38,235 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=13977, C1 Test=1552, C2 Test=8180, C3 Test=1657.
+2026-08-13 20:31:38,273 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 20:31:38,362 | INFO | y2h_ppi | trainer.py:48 | Loaded 6722 protein feature vectors from cache.
+2026-08-13 20:31:39,618 | INFO | y2h_ppi | trainer.py:65 | Built training dataset matrix X: (13977, 1568), y: (13977,)
+2026-08-13 20:31:39,619 | INFO | y2h_ppi | baseline_ml.py:28 | Training Random Forest baseline...
+2026-08-13 20:32:21,041 | INFO | y2h_ppi | trainer.py:18 | === Phase 4 Execution Started: Model Training ===
+2026-08-13 20:32:21,085 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 6722 proteins into P_train (5377) and P_heldout (1345).
+2026-08-13 20:32:22,305 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=13977, C1 Test=1552, C2 Test=8180, C3 Test=1657.
+2026-08-13 20:32:22,339 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 20:32:22,422 | INFO | y2h_ppi | trainer.py:48 | Loaded 6722 protein feature vectors from cache.
+2026-08-13 20:32:23,663 | INFO | y2h_ppi | trainer.py:65 | Built training dataset matrix X: (13977, 1568), y: (13977,)
+2026-08-13 20:32:23,663 | INFO | y2h_ppi | baseline_ml.py:28 | Training Random Forest baseline...
+2026-08-13 20:32:25,140 | INFO | y2h_ppi | baseline_ml.py:43 | Calibrating random_forest_v3 using isotonic scaling on validation set...
+2026-08-13 20:32:25,322 | INFO | y2h_ppi | baseline_ml.py:56 | Saved model 'random_forest_v3' to data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 20:32:25,322 | INFO | y2h_ppi | baseline_ml.py:21 | Training Logistic Regression baseline...
+2026-08-13 20:32:26,011 | INFO | y2h_ppi | baseline_ml.py:43 | Calibrating logistic_regression_v3 using isotonic scaling on validation set...
+2026-08-13 20:32:26,036 | INFO | y2h_ppi | baseline_ml.py:56 | Saved model 'logistic_regression_v3' to data\processed\saved_models\logistic_regression_v3.joblib
+2026-08-13 20:32:26,073 | INFO | y2h_ppi | trainer.py:94 | === Phase 4 Checkpoint PASSED ===
+2026-08-13 20:32:28,359 | INFO | y2h_ppi | pipeline.py:28 | === Phase 5 Execution Started: Rigorous Evaluation ===
+2026-08-13 20:32:28,528 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 6722 proteins into P_train (5377) and P_heldout (1345).
+2026-08-13 20:32:29,750 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=13977, C1 Test=1552, C2 Test=8180, C3 Test=1657.
+2026-08-13 20:32:29,787 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 20:32:30,107 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2697 unique nodes (max degree: 156).
+2026-08-13 20:32:30,985 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to1_balanced: AUROC=0.8770
+2026-08-13 20:32:32,746 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to1_balanced: AUROC=0.8508
+2026-08-13 20:32:33,618 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to1_balanced: AUROC=0.8224
+2026-08-13 20:32:34,451 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to1_balanced: AUROC=0.8344
+2026-08-13 20:32:36,904 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to1_balanced: AUROC=0.8420
+2026-08-13 20:32:38,249 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to1_balanced: AUROC=0.8397
+2026-08-13 20:32:39,623 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to1_balanced: AUROC=0.8862
+2026-08-13 20:32:42,655 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to1_balanced: AUROC=0.5000
+2026-08-13 20:32:44,007 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to1_balanced: AUROC=0.5000
+2026-08-13 20:32:45,344 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to1_balanced: AUROC=0.4852
+2026-08-13 20:32:48,218 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to1_balanced: AUROC=0.5051
+2026-08-13 20:32:49,571 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to1_balanced: AUROC=0.5140
+2026-08-13 20:32:49,595 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 6722 proteins into P_train (5377) and P_heldout (1345).
+2026-08-13 20:32:58,764 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=80292, C1 Test=8921, C2 Test=44553, C3 Test=5747.
+2026-08-13 20:32:58,945 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 20:32:59,264 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2705 unique nodes (max degree: 155).
+2026-08-13 20:33:01,164 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to10_imbalanced: AUROC=0.9371
+2026-08-13 20:33:11,910 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to10_imbalanced: AUROC=0.8507
+2026-08-13 20:33:14,043 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to10_imbalanced: AUROC=0.8209
+2026-08-13 20:33:16,856 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to10_imbalanced: AUROC=0.8416
+2026-08-13 20:33:26,510 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to10_imbalanced: AUROC=0.8402
+2026-08-13 20:33:27,792 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to10_imbalanced: AUROC=0.8452
+2026-08-13 20:33:30,390 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to10_imbalanced: AUROC=0.8961
+2026-08-13 20:33:42,502 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to10_imbalanced: AUROC=0.5000
+2026-08-13 20:33:43,979 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to10_imbalanced: AUROC=0.5000
+2026-08-13 20:33:45,935 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to10_imbalanced: AUROC=0.5020
+2026-08-13 20:33:57,899 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to10_imbalanced: AUROC=0.4981
+2026-08-13 20:34:00,336 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to10_imbalanced: AUROC=0.5126
+2026-08-13 20:34:00,430 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 6722 proteins into P_train (5377) and P_heldout (1345).
+2026-08-13 20:35:56,822 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=737568, C1 Test=81951, C2 Test=410148, C3 Test=51316.
+2026-08-13 20:35:58,535 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-13 20:35:59,151 | INFO | y2h_ppi | hub_baseline.py:24 | Fitted Hub/Degree baseline on training network with 2695 unique nodes (max degree: 161).
+2026-08-13 20:36:16,062 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c1 1to100_imbalanced: AUROC=0.9324
+2026-08-13 20:37:48,785 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c2 1to100_imbalanced: AUROC=0.8488
+2026-08-13 20:38:01,491 | INFO | y2h_ppi | pipeline.py:126 | RandomForest c3 1to100_imbalanced: AUROC=0.8208
+2026-08-13 20:38:21,236 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c1 1to100_imbalanced: AUROC=0.8331
+2026-08-13 20:40:24,805 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 20:41:11,008 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c2 1to100_imbalanced: AUROC=0.8385
+2026-08-13 20:41:27,667 | INFO | y2h_ppi | pipeline.py:126 | LogisticRegression c3 1to100_imbalanced: AUROC=0.8437
+2026-08-13 20:41:57,468 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c1 1to100_imbalanced: AUROC=0.8836
+2026-08-13 20:44:21,544 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 20:45:46,561 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c2 1to100_imbalanced: AUROC=0.5000
+2026-08-13 20:46:32,928 | INFO | y2h_ppi | pipeline.py:126 | DegreeHubBaseline c3 1to100_imbalanced: AUROC=0.5000
+2026-08-13 20:47:08,581 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c1 1to100_imbalanced: AUROC=0.4993
+2026-08-13 20:49:14,724 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c2 1to100_imbalanced: AUROC=0.4973
+2026-08-13 20:49:27,769 | INFO | y2h_ppi | pipeline.py:126 | RandomBaseline c3 1to100_imbalanced: AUROC=0.5090
+2026-08-13 20:49:27,810 | INFO | y2h_ppi | pipeline.py:133 | === Phase 5 Checkpoint PASSED. Canonical results saved to reports\v3_evaluation_results.json ===
+2026-08-13 20:49:45,037 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 20:59:21,342 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 22:03:30,759 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 22:08:35,177 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 22:23:27,442 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 22:34:17,012 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 22:44:18,327 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 23:15:01,272 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 23:26:48,257 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 23:33:23,953 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-13 23:44:14,249 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:13:50,948 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:13:51,674 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:13:52,140 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:13:52,147 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:13:52,147 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:13:52,150 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:13:52,155 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:13:52,156 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:13:52,156 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:13:52,160 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:13:52,161 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:14:28,185 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:14:48,785 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:14:48,987 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:14:49,095 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:14:49,099 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:14:49,100 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:14:49,103 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:14:49,107 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:14:49,108 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:14:49,108 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:14:49,112 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:14:49,112 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:12,502 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:17:12,670 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:17:12,837 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:12,842 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:12,842 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:12,845 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:12,850 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:12,851 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:12,851 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:12,855 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:12,856 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:24,817 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:17:24,998 | INFO | y2h_ppi | predictor.py:39 | Loaded predictor model from data\processed\saved_models\random_forest_v3.joblib
+2026-08-14 00:17:25,118 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:25,123 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:25,123 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:25,127 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:25,132 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:25,133 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).
+2026-08-14 00:17:25,133 | INFO | y2h_ppi | protein_disjoint_split.py:17 | Partitioned 100 proteins into P_train (80) and P_heldout (20).
+2026-08-14 00:17:25,137 | INFO | y2h_ppi | protein_disjoint_split.py:68 | Dataset split counts: Train Pairs=24, C1 Test=2, C2 Test=13, C3 Test=1.
+2026-08-14 00:17:25,138 | INFO | y2h_ppi | protein_disjoint_split.py:75 | Assertion PASSED: C3 protein-disjoint leakage test strictly verified (0 overlapping proteins).

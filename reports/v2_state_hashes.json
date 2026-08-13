@@ -1,0 +1,11 @@
+{
+  "reports/evaluation_results.json": "075946e01d4e30f6d78fa075c758b24a7e59d78a54b6b7ec2017bc7531394bfa",
+  "reports/ablation_results.json": "fec34c46d1cb533d74675eb704b30cded2147db08bbb91045bb949c313980ba1",
+  "reports/run_manifest.json": "a760162e71d33dcd72be5d324c03f234cc29d04048f5cfaa99de09ac4a5f4c1a",
+  "data/processed/saved_models/random_forest.joblib": "373b6df08590483c46710fccbc55b7ae07be4647bbc4bdb164bd237bd92b29a8",
+  "data/interim/positives_mapped.parquet": "f3a1ef5e40edf2648c5a53df20fdbb6aa941d7a900b65251d587cc2c359adf0a",
+  "data/processed/negatives_1to1.parquet": "7dac853fe3f81dba067a1bee8630080359a0f3e3d9cd52423b263a232f5ed835",
+  "data/processed/negatives_1to10.parquet": "9ed497bb78c40545ca64779837a7ff89c71b70802baac461e4d47264d2db9452",
+  "data/processed/negatives_1to100.parquet": "91fe4d87cad8c106dab317a945158ffc69862ab5aae2ce130aed1aed21ba86fa",
+  "data/interim/protein_sequences.parquet": "1029d2adbfc038a159cd7c19d7b4ded69b7641c9208face6293aea143d363e80"
+}

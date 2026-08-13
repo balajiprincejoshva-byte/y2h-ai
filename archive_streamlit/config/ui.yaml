@@ -1,0 +1,20 @@
+theme:
+  primaryColor: "#2563EB"
+  backgroundColor: "#0F172A"
+  secondaryBackgroundColor: "#1E293B"
+  textColor: "#F8FAFC"
+  font: "Inter"
+
+network:
+  max_nodes: 100
+  max_candidates: 25
+  default_probability_filter: 0.5
+  documented_edge_color: "#10B981"
+  predicted_edge_color: "#F59E0B"
+  query_node_color: "#3B82F6"
+  default_node_color: "#94A3B8"
+  
+structure:
+  default_style: "cartoon"
+  color_scheme: "chain"
+  background_color: "#1E293B"
