@@ -51,6 +51,8 @@ function TopNav() {
   );
 }
 
+import { SplashScreen } from "@/components/ui/SplashScreen";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -65,6 +67,7 @@ export default function RootLayout({
           "antialiased min-h-screen flex flex-col"
         )}
       >
+        <SplashScreen />
         <TopNav />
         <main className="flex-1 flex flex-col relative z-0">
           {children}
